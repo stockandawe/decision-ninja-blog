@@ -1,23 +1,19 @@
-# Mediumish - Jekyll Theme
+# Decision Ninja Blog
 
-[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
+Created using Mediumish - Jekyll Theme
 
-![mediumish](assets/images/mediumish-jekyll-template.png)
+### Publish your first draft blog post
 
+Create a new file in the _drafts folder and open a PR for review of your content.
 
-### Copyright
+Once the post is approved you can move it to the _posts directory and merge your PR to master.
 
-Copyright (C) 2019 Sal, https://www.wowthemes.net
+## How to publish a blog post
 
-**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
+This [Markdown Cheatsheet](http://www.jekyllnow.com/Markdown-Style-Guide/) might come in handy.
 
-<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
-
-### Contribute
-
-1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
-2. Clone a copy of your fork on your local
-3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
-4. Make necessary changes, commit, push and open a pull request on GitHub.
-
-Thank you!
+1. Clone down your fork `git clone https://github.com/himaxwell/himaxwell.github.io.git`
+2. `bundle install`
+3. `bundle exec jekyll serve --watch --drafts`
+4. View your website at http://127.0.0.1:4000/
+5. Create a new file in the _post folder and commit and push to origin
