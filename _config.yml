@@ -7,7 +7,7 @@ favicon: 'assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
 google_analytics: 'G-7NQEGE5GEH'
 #disqus: 'demowebsite'
-#mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
+mailchimp-list: 'https://gmail.us14.list-manage.com/subscribe/post?u=7a512c3d139663fb4c4cbab0c&amp;id=a4d9805898'
 include: ["_pages"]
 permalink: /:title/
 
