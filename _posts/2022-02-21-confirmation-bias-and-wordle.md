@@ -5,7 +5,7 @@ author: rutul
 categories: [ "Cognitive Bias", "Confirmation Bias" ]
 description: "A case study in confirmation bias"
 image: assets/images/confirmation-bias-wordle.png
-featured: false
+featured: true
 ---
 The strongest factors working against us in our effort to make better decisions are our [cognitive biases](https://en.wikipedia.org/wiki/List_of_cognitive_biases){:target="_blank"}. The most common bias which amplifies our tendencies to look for, evaluate, and remember only the information that confirms our preconceptions is [confirmation bias](https://en.wikipedia.org/wiki/List_of_cognitive_biases#Confirmation_bias){:target="_blank"}.
 

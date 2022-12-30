@@ -6,7 +6,7 @@ author: rutul
 #tags: [red, yellow]
 image: assets/images/undraw_discount_d4bd.png
 description: "The best way to make money decisions"
-featured: true
+featured: false
 #hidden: true
 #rating: 4.5
 ---

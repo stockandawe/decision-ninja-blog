@@ -6,7 +6,7 @@ categories: [ 'book summaries', 'books', 'annie duke' ]
 #tags: [red, yellow]
 image: https://m.media-amazon.com/images/I/41oQkVLDeUL.jpg
 description: "Short book summary of the book Thinking in Bets by Annie Duke"
-featured: true
+featured: false
 #hidden: true
 #rating: 4.5
 ---

@@ -5,7 +5,7 @@ author: rutul
 categories: [ "Financial Decision Making", "Personal Finance" ]
 description: "Why your financial decision might make sense to you, but not someone else."
 image: assets/images/decide.png
-featured: true
+featured: false
 ---
 An interesting topic in [The Psychology of Money](https://www.amazon.com/Psychology-Money-Timeless-lessons-happiness/dp/0857197681){:target="_blank"}, one of my favorite financial books, is about the idea of how “theory isn’t reality” when it comes to financial decision making. What might seem unreasonable to you, might be a perfectly reasonable decision for someone else. What we experience as outcomes of the decisions we make, and everything we experience in our lifetime tends to have an outsized influence on how we think and the financial decisions we make.
 

@@ -6,7 +6,7 @@ author: rutul
 #tags: [red, yellow]
 image: assets/images/undraw_playing_cards_cywn.png
 description: "Understanding the Gambler's Ruin Problem and how to avoid it."
-featured: true
+featured: false
 #hidden: true
 #rating: 4.5
 ---

@@ -6,7 +6,7 @@ categories: [ "Decision Multiverse", "Decision Tree" ]
 #tags: [red, yellow]
 image: assets/images/billions-season-6-episode-3-outcome.jpg
 description: "Overview of the Decision Multiverse, and how to use it when evaluating past decisions."
-featured: true
+featured: false
 ---
 Annie Duke’s [How to decide](https://www.annieduke.com/books/){:target="_blank"} is a great workbook for anyone looking to learn, refine, or enhance their decision making skills. The Decision Multiverse is one of the tools that Ms. Duke identifies as a useful technique to avoid our bias of always associating the outcome of a decision with the quality of the decision.
 
