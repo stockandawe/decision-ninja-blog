@@ -2,7 +2,7 @@
 layout: post
 title:  "Gambler’s Ruin Problem"
 author: rutul
-#categories: [ Jekyll, tutorial ]
+categories: [ "Gambler's Ruin" ]
 #tags: [red, yellow]
 image: assets/images/undraw_playing_cards_cywn.png
 description: "Understanding the Gambler's Ruin Problem and how to avoid it."
