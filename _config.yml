@@ -5,7 +5,8 @@ description: "Tools, tips, and tricks to improve the quality of all your persona
 logo: 'assets/images/logo.png'
 favicon: 'assets/images/logo.png'
 #baseurl: /mediumish-theme-jekyll
-google_analytics: 'G-8JMR386WRC'
+google_analytics: 'UA-47070768-1'
+google_analytics_v4: 'G-8JMR386WRC'
 #disqus: 'demowebsite'
 mailchimp-list: 'https://gmail.us14.list-manage.com/subscribe/post?u=7a512c3d139663fb4c4cbab0c&amp;id=a4d9805898'
 include: ["_pages"]
