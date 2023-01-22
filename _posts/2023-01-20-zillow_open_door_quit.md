@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "The decision to quick - Zillow v/s Opendoor"
+title:  "The decision to quit - Zillow"
 author: rutul
 categories: [ "Investing", "Decision to quit", "Quit" ]
 image: assets/images/zillow_vs_open_door_quit.png
