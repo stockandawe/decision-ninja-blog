@@ -3,12 +3,9 @@ layout: post
 title:  "Gambler’s Ruin Problem"
 author: rutul
 categories: [ "Gambler's Ruin" ]
-#tags: [red, yellow]
 image: assets/images/undraw_playing_cards_cywn.png
 description: "Understanding the Gambler's Ruin Problem and how to avoid it."
 featured: false
-#hidden: true
-#rating: 4.5
 ---
 
 The Gambler’s Ruin Problem is a concept that is most easily understood in the context of a casino.

@@ -2,8 +2,7 @@
 layout: post
 title:  "Money decisions"
 author: rutul
-#categories: [ Jekyll, tutorial ]
-#tags: [red, yellow]
+categories: [ "Financial Decision Making", "Personal Finance", "Money Decisions" ]
 image: assets/images/undraw_discount_d4bd.png
 description: "The best way to make money decisions"
 featured: false
